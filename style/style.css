@@ -46,10 +46,10 @@ header > h1{
 }
 header > p{
     font-family: var(--font-padrao);
-    min-width: 320px;
+    min-width: 315px;
     max-width: 400px;
     margin: auto;
-    padding: 0px 30px 30px 30px;
+    padding: 0px 15px 30px 15px;
 }
 nav{
     background-color: #092616;
@@ -63,7 +63,7 @@ nav > a{
     font-size: 14px;
     text-decoration: none;
     color: #84e1ad;
-    margin: 15px;
+    margin: 5px;
     padding: 5px;
     border-radius: 5px;    
 }
@@ -74,7 +74,7 @@ nav >a:hover{
 main{
     background-color: white;
     font-family: var(--font-padrao);
-    min-width: 380px;
+    min-width: 315px;
     max-width: 1000px;
     border-radius: 5px;
     margin: auto;
